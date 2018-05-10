@@ -1,0 +1,4 @@
+D:\2018-04-28_ConvEuroDollari\obj\x86\Debug\_2018_04_28_ConvEuroDollari.FormMain.resources
+D:\2018-04-28_ConvEuroDollari\obj\x86\Debug\_2018_04_28_ConvEuroDollari.Properties.Resources.resources
+D:\2018-04-28_ConvEuroDollari\obj\x86\Debug\2018-04-28_ConvEuroDollari.csproj.GenerateResource.Cache
+D:\2018-04-28_ConvEuroDollari\obj\x86\Debug\2018-04-28_ConvEuroDollari.pdb
