@@ -1,0 +1,7 @@
+D:\2018-04-28_ConvCelsius-Fahrenheit\bin\Debug\2018-04-28_ConvCelsius-Fahrenheit.exe
+D:\2018-04-28_ConvCelsius-Fahrenheit\bin\Debug\2018-04-28_ConvCelsius-Fahrenheit.pdb
+D:\2018-04-28_ConvCelsius-Fahrenheit\obj\x86\Debug\_2018_04_28_ConvCelsius_Fahrenheit.Form1.resources
+D:\2018-04-28_ConvCelsius-Fahrenheit\obj\x86\Debug\_2018_04_28_ConvCelsius_Fahrenheit.Properties.Resources.resources
+D:\2018-04-28_ConvCelsius-Fahrenheit\obj\x86\Debug\2018-04-28_ConvCelsius-Fahrenheit.csproj.GenerateResource.Cache
+D:\2018-04-28_ConvCelsius-Fahrenheit\obj\x86\Debug\2018-04-28_ConvCelsius-Fahrenheit.exe
+D:\2018-04-28_ConvCelsius-Fahrenheit\obj\x86\Debug\2018-04-28_ConvCelsius-Fahrenheit.pdb
