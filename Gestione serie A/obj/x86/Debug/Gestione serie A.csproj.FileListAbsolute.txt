@@ -1,0 +1,16 @@
+D:\Gestione serie A\bin\Debug\Gestione serie A.exe
+D:\Gestione serie A\bin\Debug\Gestione serie A.pdb
+D:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.FormMain.resources
+D:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.Properties.Resources.resources
+D:\Gestione serie A\obj\x86\Debug\Gestione serie A.csproj.GenerateResource.Cache
+D:\Gestione serie A\obj\x86\Debug\Gestione serie A.exe
+D:\Gestione serie A\obj\x86\Debug\Gestione serie A.pdb
+F:\Gestione serie A\bin\Debug\Gestione serie A.exe
+F:\Gestione serie A\bin\Debug\Gestione serie A.pdb
+F:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.FormMain.resources
+F:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.Properties.Resources.resources
+F:\Gestione serie A\obj\x86\Debug\Gestione serie A.csproj.GenerateResource.Cache
+F:\Gestione serie A\obj\x86\Debug\Gestione serie A.exe
+F:\Gestione serie A\obj\x86\Debug\Gestione serie A.pdb
+F:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.FormAggiorna.resources
+F:\Gestione serie A\obj\x86\Debug\Gestione_serie_A.FormModifica.resources
